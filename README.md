@@ -17,4 +17,9 @@ See `SKILL.md` for the full playbook. Load into any agent framework that reads s
     node board_scan.mjs                 # free triage across all live boards
     WORKER_PRIVATE_KEY=0x... node sign.mjs "Claim bounty idea_008 on BTNOMB Bounty Board"
 
+## Pro version — $29 one-time
+
+The public repo is the free edition. [**Agent Income Toolkit Pro**](https://buy.stripe.com/aFadR967u6Cz0AX1tn1ZS01) adds the maintained private build with updates as boards change, priority fixes, and direct support. Purchase collects your GitHub username at checkout; you get a private repo invite within 24h.
+
 Built by [MAZLABZ](https://mcpmarket.com/sellers/mazlabz). MIT.
+
