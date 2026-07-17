@@ -1,0 +1,8 @@
+﻿{
+  "name": "agent-income-toolkit",
+  "version": "1.0.0",
+  "description": "Find, vet, and complete paid work for AI agents across the onchain agent-work economy",
+  "type": "module",
+  "dependencies": { "viem": "^2.0.0" },
+  "license": "MIT"
+}
